@@ -1,3 +1,13 @@
+
+<img width="1908" height="911" alt="Screenshot 2026-03-20 155037" src="https://github.com/user-attachments/assets/33edfbbb-2264-43c6-bf83-dcfcfee3326b" />
+<img width="1908" height="911" alt="Screenshot 2026-03-20 155037" src="https://github.com/user-attachments/assets/aeb13603-e91f-4804-b63f-5e1c0fa04f35" />
+<img width="525" height="670" alt="Screenshot 2026-03-20 155027" src="https://github.com/user-attachments/assets/4c1cceaa-4ec7-4f9e-8982-ffd393c39909" />
+<img width="1681" height="559" alt="Screenshot 2026-03-20 155009" src="https://github.com/user-attachments/assets/2ede0d50-f8d2-4f84-932d-a252502e00c4" />
+<img width="1751" height="297" alt="Screenshot 2026-03-20 155004" src="https://github.com/user-attachments/assets/a9e6524e-e908-4cd9-990b-b4005f04ec2b" />
+<img width="1658" height="773" alt="Screenshot 2026-03-20 154954" src="https://github.com/user-attachments/assets/0bdf43ba-ddb7-41e0-8554-a9095c90caa4" />
+<img width="1871" height="600" alt="Screenshot 2026-03-20 154947" src="https://github.com/user-attachments/assets/ad4311ff-6b09-416b-a92c-59f6903dadb9" />
+<img width="1907" height="924" alt="Screenshot 2026-03-20 154937" src="https://github.com/user-attachments/assets/5b8288c5-5c2e-41d5-aaf6-c12cf708a652" />
+
 # VideoNotes AI
 
 Turn any YouTube video, lecture, or meeting recording into organized notes, timestamped chapters, action items, and an AI-powered Q&A assistant.
