@@ -25,29 +25,26 @@ Turn any YouTube video, lecture, or meeting recording into organized notes, time
 
 ### Setup
 
-```bash
 git clone https://github.com/armaanmanojkumar/video-notes-ai.git
 cd video-notes-ai
 
 python -m venv .venv
-.venv\Scripts\activate       # Windows
-source .venv/bin/activate    # Mac/Linux
+.venv\Scripts\activate      
 
 pip install -r requirements.txt
 
-copy .env.example .env       # Windows
-cp .env.example .env         # Mac/Linux
+copy .env.example .env      
 
 mkdir backend\uploads backend\chroma_db
 
 python -m uvicorn backend.main:app --host 0.0.0.0 --port 8000 --reload
-```
+
 
 Open http://localhost:8000
 
 ## Project Structure
 
-```
+
 video-notes-ai/
 ├── backend/
 │   ├── main.py
@@ -70,15 +67,15 @@ video-notes-ai/
 ├── .env.example
 ├── requirements.txt
 └── vercel.json
-```
+
 
 ## Deploy to Vercel
 
-```bash
+
 npm install -g vercel
 vercel login
 vercel
-```
+
 
 Then add GROQ_API_KEY in your Vercel project settings under Environment Variables.
 
