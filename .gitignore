@@ -37,3 +37,5 @@ logs/
 .coverage
 htmlcov/
 coverage.xml
+
+.vercel
